@@ -1,2 +1,2 @@
 # Gift-Genie
-Gift suggestion app that uses ai.
+Gift suggestion app that uses Ai.
